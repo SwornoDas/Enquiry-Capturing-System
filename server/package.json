@@ -1,0 +1,34 @@
+{
+  "name": "enquiry-capturing-system",
+  "version": "1.0.0",
+  "description": "enquiry-capturing-system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SwornoDas/Enquiry-Capturing-System.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SwornoDas/Enquiry-Capturing-System/issues"
+  },
+  "homepage": "https://github.com/SwornoDas/Enquiry-Capturing-System#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dayjs": "^1.11.20",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "googleapis": "^171.4.0",
+    "zod": "^4.3.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.2"
+  }
+}
