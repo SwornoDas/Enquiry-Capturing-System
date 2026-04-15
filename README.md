@@ -29,6 +29,14 @@ A modern, responsive web application designed to capture user enquiries and save
 
 ---
 
+## 📊 Results: Google Sheets
+
+This is the result in Google Sheets after successfully capturing an enquiry:
+
+![Google Sheet Result](./screenshots/google-sheet.png)
+
+---
+
 ## 🚀 Getting Started
 
 Follow these steps to set up and run the project locally.
